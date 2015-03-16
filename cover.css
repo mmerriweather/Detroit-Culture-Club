@@ -27,7 +27,11 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  background: url('https://www.dropbox.com/s/b91kl4g4ja7shwx/image1.jpg?dl=0') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 body {
   color: #fff;
